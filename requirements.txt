@@ -1,0 +1,8 @@
+# to run locally
+psycopg>=3.0.1
+ssaw>=0.6.2
+strawberry-graphql>=0.83.4, <0.84.0
+
+# inside docker
+fastapi>=0.70.0, <0.71.0
+uvicorn[ standard]>=0.15.0,<0.16.0
